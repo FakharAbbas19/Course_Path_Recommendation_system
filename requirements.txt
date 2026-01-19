@@ -1,0 +1,6 @@
+fastapi //API framework
+uvicorn //to run server run 
+scikit-learn //Decision tree ML model
+pandas //dataset handling
+numpy  //numerical operations
+joblib //formodel save/load 
